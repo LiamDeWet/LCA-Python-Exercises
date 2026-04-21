@@ -15,7 +15,7 @@ print("Hello " + name + "! You are " + age + " years old.")
 #Personal opinion using f strings are way bettr in this situation :)
 
 
-#to make the code bettr to view in the terminal i added the spaces...
+#to make the code better to view in the terminal I added the spaces...
 
 #Question 2: Integer operrations
 
